@@ -1,6 +1,11 @@
 Hi 👋. My name is Sultonov Zerifboy
 
-I'm Javascript Backend developer i love coffee, cats and music* 🌍  I'm based in Uzbekistan* ✉️  You can contact me at [sultonovzerifboy@gmail.com](mailto:sultonovzerifboy@gmail.com)* 🧠  I'm learning Frontend Development* ⚡  i use Arch btw :)
+I'm Javascript Backend developer 
+- 💖  i love coffee, cats and music
+- 🌍  I'm based in Uzbekistan
+- ✉️  You can contact me at [sultonovzerifboy@gmail.com](mailto:sultonovzerifboy@gmail.com)
+- 🧠  I'm learning Frontend Development
+- ⚡  i use Arch btw :)
 
 ### Skills
 
