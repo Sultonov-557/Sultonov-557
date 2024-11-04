@@ -1,4 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sultonov Zerifboy=========================================================================================================================================Software Engineer-----------------I'm Javascript Backend developer i love coffee, cats and music* 🌍  I'm based in Uzbekistan* ✉️  You can contact me at [sultonovzerifboy@gmail.com](mailto:sultonovzerifboy@gmail.com)* 🧠  I'm learning Frontend Development* ⚡  i use Arch btw :)
+Hi 👋. My name is Sultonov Zerifboy
+
+I'm Javascript Backend developer i love coffee, cats and music* 🌍  I'm based in Uzbekistan* ✉️  You can contact me at [sultonovzerifboy@gmail.com](mailto:sultonovzerifboy@gmail.com)* 🧠  I'm learning Frontend Development* ⚡  i use Arch btw :)
 
 ### Skills
 
